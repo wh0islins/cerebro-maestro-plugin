@@ -34,11 +34,11 @@ Es una **plantilla vacía**. No trae datos de nadie: tú lo llenas con lo tuyo.
 En Claude Code:
 
 ```
-/plugin marketplace add lins888/cerebro-maestro-plugin
+/plugin marketplace add wh0islins/cerebro-maestro-plugin
 /plugin install cerebro-maestro
 ```
 
-> ¿Prefieres clonarlo? `git clone https://github.com/lins888/cerebro-maestro-plugin.git`
+> ¿Prefieres clonarlo? `git clone https://github.com/wh0islins/cerebro-maestro-plugin.git`
 > y luego `/plugin marketplace add /ruta/al/repo`.
 
 ---
